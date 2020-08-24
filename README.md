@@ -1,7 +1,7 @@
 # snakesnladders
 Classes and objects practice
 
-Challenge from codewars.com:
+Challenge from codewars.com: 
 
 
 ## Rules 
@@ -27,11 +27,11 @@ Challenge from codewars.com:
 ![](board.jpg)
 
 ## Usage 
-"The test cases will call the method play(die1, die2) independantly of the state of the game or the player turn. The variables die1 and die2 are the die thrown in a turn and are both integers between 1 and 6. 
+The test cases will call the method play(die1, die2) independantly of the state of the game or the player turn. The variables die1 and die2 are the die thrown in a turn and are both integers between 1 and 6. 
 
 Return Player n Wins!. Where n is winning player that has landed on square 100 without any remainding moves left.
 
 Return Game over! if a player has won and another player tries to play.
 
-Otherwise return Player n is on square x. Where n is the current player and x is the sqaure they are currently on."
+Otherwise return Player n is on square x. Where n is the current player and x is the sqaure they are currently on.
 
